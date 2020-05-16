@@ -13,4 +13,5 @@ Example usage (assuming you have ImageMagick's `display` installed):
 	
 	$ some-command | qrc | display
 
-qrc uses [rsc/qr](https://github.com/rsc/qr) internally.
+qrc uses [rsc/qr](https://github.com/rsc/qr) internally and only produces PNG
+images.
